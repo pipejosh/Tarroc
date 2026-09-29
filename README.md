@@ -1,6 +1,6 @@
 # TARROC
 
-!(IMG/TarrocLogo.jpeg)
+![Logo](IMG/TarrocLogo.jpeg)
 
 The Tarroc (carrot inverted) is a 2 stage model roket powered by 2 G38-4FJ rocket engines for each stage featuring a arduino based flight computer with a barometer and gyroscope log 
 
@@ -11,17 +11,17 @@ The flight computer features 3 mosfets, each mosfet is wired up to its respectiv
 
 ## IRL
 
-!(IMG/TarrocRocket.jpeg)
-!(IMG/TarrocRocket2.jpeg)
+![RocketImage1](IMG/TarrocRocket.jpeg)
+![RocketImage2](IMG/TarrocRocket2.jpeg)
 
 
 ## Render
 
-!(IMG/TarrocRender)
+![Render](IMG/TarrocRender.png)
 
 ## Schematic
 
-!(IMG/Schematic)
+![Schematic](IMG/Schematic.png)
 
 
 ## BOM
