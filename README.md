@@ -9,12 +9,13 @@ The flight computer features 3 mosfets, each mosfet is wired up to its respectiv
 - Upper Stage 
 - Parachute Deploy
 
-## IRL
+## IRL Build
 
 ![RocketImage1](IMG/TarrocRocket.jpeg)
 ![RocketImage2](IMG/TarrocRocket2.jpeg)
 
-
+## Launch
+Launch.mp
 ## Render
 
 ![Render](IMG/TarrocRender.png)
