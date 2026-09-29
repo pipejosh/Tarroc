@@ -15,7 +15,12 @@ The flight computer features 3 mosfets, each mosfet is wired up to its respectiv
 ![RocketImage2](IMG/TarrocRocket2.jpeg)
 
 ## Launch
-Launch.mp
+
+
+
+https://github.com/user-attachments/assets/ba41ea99-5bd1-47af-b8f5-e896b838b2ae
+
+
 ## Render
 
 ![Render](IMG/TarrocRender.png)
