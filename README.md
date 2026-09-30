@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/ba41ea99-5bd1-47af-b8f5-e896b838b2ae
 
 ### Components List
 
-| **Name** | **Purpose** | **Quantity** | **Total Cost (CAD)** | **Distributor** | **Link** |
+| **Name** | **Purpose** | **Quantity** | **Total Cost** | **Distributor** | **Link** |
 |---|---|---:|---:|---|---|
 | **ARDUINO NANO** | Brain | 1 | $3.08 | AliExpress | [Link](https://www.aliexpress.com/item/1005006472755752.html) |
 | **BMP280** | Barometer | 1 | $5.52 | AliExpress | [Link](https://www.aliexpress.com/item/1005008511564094.html) |
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/ba41ea99-5bd1-47af-b8f5-e896b838b2ae
 
 ### Rocket Motor and Recovery System
 
-| **Name** | **Purpose** | **Quantity** | **Total Cost (CAD)** | **Distributor** | **Link** |
+| **Name** | **Purpose** | **Quantity** | **Total Cost** | **Distributor** | **Link** |
 |---|---|---:|---:|---|---|
 | **G38-4FJ Rocket Motor** | Rocket engines | 2 | $99.00 | Canadian Rocket Store | [Link](https://www.allrockets.ca/G38-4) |
 | **CHUTE PROTECTOR** | 4 × 4 chute protector | 1 | $7.40 | Canadian Rocket Store | [Link](https://www.allrockets.ca/Build/Shock-Cords/Kevlar-220) |
@@ -68,11 +68,11 @@ https://github.com/user-attachments/assets/ba41ea99-5bd1-47af-b8f5-e896b838b2ae
 
 ### Additional Costs
 
-| **Name** | **Purpose** | **Quantity** | **Total Cost (CAD)** | **Distributor** |
+| **Name** | **Purpose** | **Quantity** | **Total Cost** | **Distributor** |
 |---|---|---:|---:|---|
 | **Taxes** | AliExpress tax | — | $8.40 | AliExpress |
 | **Shipping** | Standard shipping | — | $24.06 | Canadian Rocket Store |
 | **Taxes** | Sales tax | — | $6.71 | Canadian Rocket Store |
 
 
-**Grand Total Project Estimate Cost: $224.04 CAD**
+**Grand Total Project Estimate Cost: $224.04**
